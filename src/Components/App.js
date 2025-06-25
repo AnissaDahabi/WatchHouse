@@ -2,6 +2,7 @@ import '../StyleSheets/style.css';
 import '../index'
 import NavBar from './NavBar';
 import BackgroundVideo from "./BackgroundVideo";
+import HomeTitle from "./HomeTitle";
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
         <div>
           <BackgroundVideo/>
           <NavBar/>
+          <HomeTitle/>
         </div>
       </div>
   );

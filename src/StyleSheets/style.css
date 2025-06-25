@@ -1,8 +1,8 @@
 .root {
-  beige: var(#FCF7E6)
+  --beige: var(#FCF7E6)
 }
 
-.NavBar {
+.navBar {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -12,20 +12,65 @@
   top: 0;
   left: 0;
   width: 100%;
-  height: 100px;
-  color: beige;
+  color: #FCF7E6;
+  min-height: 120px;
 }
 
-.NavBar a {
+.navBar a {
   margin-left: 1em;
   margin-right: 1em;
   text-decoration: none;
-  color: beige;
+  color: #FCF7E6;
 }
 
-hr {
-  margin-left: 15em;
-  margin-right: 15em;
-  margin-top: 2em;
-  font-weight: bold;
+.navBar hr {
+  border: 1px solid #FCF7E6;
+  margin-top: 1em;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
 }
+
+.video {
+  position: fixed;
+  top: 0;
+  left: 0;
+  min-width: 100vw;
+  min-height: 100vh;
+  object-fit: cover;
+  z-index: -1;
+}
+
+.homeTitle {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-top: 10em;
+}
+
+.homeTitle h1{
+  color: #FCF7E6;
+  font-size: 5em;
+
+}
+
+.homeTitle p{
+  color: #FCF7E6;
+  font-size: 1.5em;
+  font-weight: 600;
+}
+
+.button {
+  background-color: #FCF7E6;
+  min-height: 2.2em;
+  min-width: 10em;
+  border: none;
+  border-radius: 20px;
+  color: #0A0A09;
+  margin-top: 3em;
+  font-size: 1.2em;
+  font-weight: 300;
+}
+
