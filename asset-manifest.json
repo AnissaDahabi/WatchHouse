@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/WatchHouse/static/css/main.39dddbb3.css",
+    "main.js": "/WatchHouse/static/js/main.bf4aca38.js",
+    "static/js/453.598c1932.chunk.js": "/WatchHouse/static/js/453.598c1932.chunk.js",
+    "static/media/coffee.mp4": "/WatchHouse/static/media/coffee.33ae736629e221aef549.mp4",
+    "static/media/img2.png": "/WatchHouse/static/media/img2.b500f4c503afa26ea288.png",
+    "static/media/img1.png": "/WatchHouse/static/media/img1.60dc908720904cf7b258.png",
+    "static/media/img3.png": "/WatchHouse/static/media/img3.4ec340f11de1f19a2f8b.png",
+    "index.html": "/WatchHouse/index.html",
+    "main.39dddbb3.css.map": "/WatchHouse/static/css/main.39dddbb3.css.map",
+    "main.bf4aca38.js.map": "/WatchHouse/static/js/main.bf4aca38.js.map",
+    "453.598c1932.chunk.js.map": "/WatchHouse/static/js/453.598c1932.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39dddbb3.css",
+    "static/js/main.bf4aca38.js"
+  ]
+}
