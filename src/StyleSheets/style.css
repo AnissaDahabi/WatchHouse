@@ -155,13 +155,13 @@
 
 .banner1-text h3, .banner2-text h3, .banner3-text h3 {
   margin: 0;
-  font-size: 2em;
+  font-size: 1.8em;
   color: #0A0A09;
 }
 
 .banner1-text p, .banner2-text p, .banner3-text p {
   margin: 0;
-  font-size: 1.4em;
+  font-size: 1.3em;
   color: #0A0A09;
   line-height: 1.4;
 }
