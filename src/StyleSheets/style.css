@@ -29,7 +29,7 @@
   top: 0;
   left: 0;
   width: 100%;
-  min-height: 120px;
+  min-height: 80px;
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -43,17 +43,17 @@
 }
 
 .navBar h1 {
-  font-size: 3em;
+  font-size: 2.2em;
   margin-bottom: 0.2em;
 }
 
 .navBar a {
   margin-left: 1em;
   margin-right: 1em;
-  padding-bottom: 5em;
   text-decoration: none;
   color: #FCF7E6;
-  font-size: 1.5em;
+  font-size: 1.2em;
+  font-weight: normal;
 }
 
 .navBar hr {
@@ -155,13 +155,13 @@
 
 .banner1-text h3, .banner2-text h3, .banner3-text h3 {
   margin: 0;
-  font-size: 1.8em;
+  font-size: 1.5em;
   color: #0A0A09;
 }
 
 .banner1-text p, .banner2-text p, .banner3-text p {
   margin: 0;
-  font-size: 1.3em;
+  font-size: 1.1em;
   color: #0A0A09;
   line-height: 1.4;
 }
