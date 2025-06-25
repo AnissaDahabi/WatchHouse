@@ -131,12 +131,38 @@
   align-items: baseline;
   justify-content: space-between;
   background-color: #F5F0DF;
-  padding: 4em 2em;
+  padding: 3em;
+}
+
+.banner1, .banner2, .banner3 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 1.5em;
 }
 
 .banner1-img, .banner2-img, .banner3-img {
-  width: 8em;
-  height: 10em;
+  width: 6em;
+  height: 8em;
+  flex-shrink: 0;
 }
 
+.banner1-text, .banner2-text, .banner3-text {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5em;
+}
+
+.banner1-text h3, .banner2-text h3, .banner3-text h3 {
+  margin: 0;
+  font-size: 2em;
+  color: #0A0A09;
+}
+
+.banner1-text p, .banner2-text p, .banner3-text p {
+  margin: 0;
+  font-size: 1.4em;
+  color: #0A0A09;
+  line-height: 1.4;
+}
 

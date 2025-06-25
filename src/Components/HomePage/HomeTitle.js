@@ -1,5 +1,5 @@
-import '../StyleSheets/style.css';
-import '../index'
+import '../../StyleSheets/style.css';
+import '../../index'
 
 function HomeTitle() {
     return (

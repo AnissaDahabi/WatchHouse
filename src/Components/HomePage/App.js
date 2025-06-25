@@ -1,5 +1,5 @@
-import '../StyleSheets/style.css';
-import '../index'
+import '../../StyleSheets/style.css';
+import '../../index'
 import NavBar from './NavBar';
 import BackgroundVideo from "./BackgroundVideo";
 import HomeTitle from "./HomeTitle";
