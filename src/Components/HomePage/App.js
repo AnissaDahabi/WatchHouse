@@ -4,6 +4,7 @@ import NavBar from './NavBar';
 import BackgroundVideo from "./BackgroundVideo";
 import HomeTitle from "./HomeTitle";
 import Banner from "./Banner";
+import Favorites from "./Favorites";
 
 function App() {
   return (
@@ -15,6 +16,9 @@ function App() {
           </div>
           <div className="banner-section">
               <Banner/>
+          </div>
+          <div>
+              <Favorites/>
           </div>
       </div>
   );

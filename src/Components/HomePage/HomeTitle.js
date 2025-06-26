@@ -9,7 +9,7 @@ function HomeTitle() {
                 <p>Pourers of the world’s best coffees and providers of the tools and <br/>
                     techniques from our House to yours.</p>
             </div>
-            <button className="button">SHOP NOW</button>
+            <button className="beigeBtnNoBorder">SHOP NOW</button>
         </div>
     );
 }
