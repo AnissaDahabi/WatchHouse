@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.css": "/WatchHouse/static/css/main.39dddbb3.css",
-    "main.js": "/WatchHouse/static/js/main.bf4aca38.js",
+    "main.css": "/WatchHouse/static/css/main.95cb1410.css",
+    "main.js": "/WatchHouse/static/js/main.3bdb2563.js",
     "static/js/453.598c1932.chunk.js": "/WatchHouse/static/js/453.598c1932.chunk.js",
     "static/media/coffee.mp4": "/WatchHouse/static/media/coffee.33ae736629e221aef549.mp4",
+    "static/media/mizuMatcha.png": "/WatchHouse/static/media/mizuMatcha.8b43d7998980a85eec0d.png",
+    "static/media/matchaMug.png": "/WatchHouse/static/media/matchaMug.23a31e60bd5065d3d639.png",
     "static/media/img2.png": "/WatchHouse/static/media/img2.b500f4c503afa26ea288.png",
+    "static/media/mirukuMatcha.png": "/WatchHouse/static/media/mirukuMatcha.a0352153cffeb93842d7.png",
     "static/media/img1.png": "/WatchHouse/static/media/img1.60dc908720904cf7b258.png",
     "static/media/img3.png": "/WatchHouse/static/media/img3.4ec340f11de1f19a2f8b.png",
     "index.html": "/WatchHouse/index.html",
-    "main.39dddbb3.css.map": "/WatchHouse/static/css/main.39dddbb3.css.map",
-    "main.bf4aca38.js.map": "/WatchHouse/static/js/main.bf4aca38.js.map",
+    "main.95cb1410.css.map": "/WatchHouse/static/css/main.95cb1410.css.map",
+    "main.3bdb2563.js.map": "/WatchHouse/static/js/main.3bdb2563.js.map",
     "453.598c1932.chunk.js.map": "/WatchHouse/static/js/453.598c1932.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.39dddbb3.css",
-    "static/js/main.bf4aca38.js"
+    "static/css/main.95cb1410.css",
+    "static/js/main.3bdb2563.js"
   ]
 }
